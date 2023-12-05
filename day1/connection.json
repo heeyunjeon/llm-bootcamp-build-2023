@@ -1,11 +1,12 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
-  "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "account"      : "KEB85413" ,   
+  "user"         : "USER0031" , 
+  "password"     : "Snowflake99!" , 
+  "role"         : "ROLE_USER0031" , 
+  "warehouse"    : "WH_XS_USER0031" , 
+  "database"     : "DB_USER0031" , 
+  "schema"       : "SCHEMA_LLM" , 
+  "compute_pool" : "COMPUTE_POOL_USER0031" , 
+  "huggingface_token"   : "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"
+
 }
